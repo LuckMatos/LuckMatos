@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá, sou Lucas Lopes
 
-<!--
-**LuckMatos/LuckMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ml07/)
 
-Here are some ideas to get you started:
+![Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckMatos&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que estudo:
+
+[![Instagram](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/LuckMatos/LuckMatos/edit/main/README.md)
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/LuckMatos/LuckMatos/edit/main/README.md)
+[![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/LuckMatos/LuckMatos/edit/main/README.md)
+[![JavaScript](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/LuckMatos/LuckMatos/edit/main/README.md)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/LuckMatos/LuckMatos/edit/main/README.md)
+
+### O código
+<div aling ="center">
+<b>No mundo da programação, a aprendizagem é uma jornada contínua e empolgante. Cada linha de código escrita, cada desafio superado, é um passo em direção ao domínio dessa arte.</b></d>
